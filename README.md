@@ -44,6 +44,8 @@ $ mvn test -e
 - Click on Try it out and fill the input payload as per the contract.
 - Finally Click on Excetue and ensure to see the 200 response with response message.
 - Also Open http://localhost:8080/school-registration/h2/ from web browser and click on Connect without password to view the data persisted by this api.
+  ![image](https://user-images.githubusercontent.com/29572554/132831811-9d72d7f1-bd31-4cd1-b59c-69e8b1ae96dc.png)
+
 
 ## Developer(s)
 
